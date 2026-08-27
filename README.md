@@ -187,22 +187,22 @@ FDPM generates **multimodal future trajectories conditioned on lane structure an
 
 <tr>
 <td align="center" width="50%">
-<img src="images/1.gif" width="100%"><br>
+<img src="images3/1.gif" width="100%"><br>
 <b>Multi-Agent Case 01</b>
 </td>
 <td align="center" width="50%">
-<img src="images/2.gif" width="100%"><br>
+<img src="images3/2.gif" width="100%"><br>
 <b>Multi-Agent Case 02</b>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="50%">
-<img src="images/3.gif" width="100%"><br>
+<img src="images3/3.gif" width="100%"><br>
 <b>Multi-Agent Case 03</b>
 </td>
 <td align="center" width="50%">
-<img src="images/4.gif" width="100%"><br>
+<img src="images3/4.gif" width="100%"><br>
 <b>Multi-Agent Case 04</b>
 </td>
 </tr>
@@ -370,36 +370,6 @@ The repository will include:
 
 ---
 
-# 📦 Repository Structure
-
-```text
-FDPM/
-│
-├── README.md
-│
-├── images1/
-│   ├── 1.gif
-│   ├── 2.gif
-│   ├── ...
-│   └── 12.gif
-│
-├── images2/
-│   ├── 1.gif
-│   ├── 2.gif
-│   ├── ...
-│   └── 6.gif
-│
-├── images/
-│   ├── 1.gif
-│   ├── 2.gif
-│   ├── 3.gif
-│   └── 4.gif
-│
-└── code/
-    └── Coming soon
-```
-
----
 
 # 📝 Citation
 
